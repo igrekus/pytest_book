@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+.vscode
+
+*.lock
+venv/
+k8s-handle
+
+ref/
