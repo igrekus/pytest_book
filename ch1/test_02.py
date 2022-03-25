@@ -1,6 +1,8 @@
 import pytest
 
 
-@pytest.mark.xfail
+# @pytest.mark.xfail
 def test_failing():
-    assert (1, 2, 3) == (3, 2, 1)
+    expected = (3, 2, 1)
+    actual = (1, 2, 3)
+    assert actual == expected
