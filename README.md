@@ -1,0 +1,1 @@
+Workalong repo for the book: https://pragprog.com/titles/bopytest/python-testing-with-pytest/
